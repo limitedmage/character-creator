@@ -1,2 +1,10 @@
 .buttonRow {
+  width: max-content;
+  margin-top: 16px;
+  padding: 24px;
+}
+
+.buttonContainer {
+  overflow-x: auto;
+  margin: -24px;
 }
