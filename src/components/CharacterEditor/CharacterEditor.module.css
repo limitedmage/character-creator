@@ -28,6 +28,8 @@
   position: fixed;
   min-height: 500px;
   right: 32px;
+  bottom: 0;
+  top: 128px;
 }
 
 .controlColumn {
